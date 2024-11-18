@@ -2,7 +2,7 @@
 
 
 
-**Final version**: https://github.com/juanjocarin/W207-Machine-Learning/blob/master/Forest/W207-Carin_Mahmud_Sakhamuri.ipynb
+**Final version**: (https://github.com/dulamnikitha1412/Forest_cover_prediction/blob/main/nikitha.ipynb)
 
 
 We used the most typical classifiers that we covered in the course, with the exception of **Neural Networks** (week 7). These are:
